@@ -23,7 +23,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](hhttps://rl-repo.github.io/bankist/)
+[![Product Name Screen Shot][product-screenshot]](https://rl-repo.github.io/bankist/)
 
 This static webpage is a simple javascript app to employ syntax and techiniques I've learned working w/ arrays, objects, dates/times, and basic DOM manipulation. The HTML / CSS and images foundation is adapted from a Udemy course.
 
