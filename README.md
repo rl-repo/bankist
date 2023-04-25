@@ -1,5 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -45,6 +43,10 @@ Two accounts are available to accesss given the preloaded data. Several basic fu
 | -------- | ---- |
 | js       | 1111 |
 | jd       | 2222 |
+
+## Resources
+
+[README template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
